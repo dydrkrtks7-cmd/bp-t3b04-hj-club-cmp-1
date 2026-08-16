@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-nightlife-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://yeomchang-nightlife-note.go-hapjeong-club.xyz/sitemap-pages.xml
